@@ -107,6 +107,9 @@ export default hopeTheme({
     mark: true,
     plantuml: true,
     spoiler: true,
+    math: {
+      type: "katex",
+    },
     stylize: [
       {
         matcher: "Recommended",

@@ -28,7 +28,7 @@ m[i,j] : The largest value in the set of values with volume <=j from the first i
 
 #### 1.1 Dynamic Programming Table m[i,j] Construction
 
-**i=0/j=0:**m[i,j]=0
+**i=0/j=0:** m[i,j]=0
 
 | i\j  |  0   |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
