@@ -16,6 +16,13 @@ export const zhSidebar = sidebar({
       prefix: "posts/",
       children: "structure",
     },
+    {
+      text: "算法设计与分析课程攻略",
+      icon: "laptop-code",
+      prefix: "算法设计与分析课程攻略/",
+      link: "算法设计与分析课程攻略/",
+      children: "structure",
+    },
     "intro",
     {
       text: "幻灯片",

@@ -1,4 +1,16 @@
-# 算法设计与分析作业3
+---
+icon: pen-to-square
+date: 2025-05-07
+cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+
+category:
+- Algo Course Guide
+tag:
+  - 动态规划
+  - 最长公共子序列
+  - 矩阵连乘
+---
+# Homework3
 # 第一题
 
 在构建 c 数组时，不再维护额外的 b 数组来记录方向。 在需要回溯寻找具体的最长公共子序列时，直接通过比较 c[i] [j]、c[i-1] [j] 和 c[i] [j-1] 的值来判断当前字符是否属于最长公共子序列，以及应该向哪个方向回溯。

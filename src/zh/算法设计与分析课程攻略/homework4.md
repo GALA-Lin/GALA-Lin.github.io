@@ -1,3 +1,14 @@
+---
+icon: pen-to-square
+date: 2025-05-14
+cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+category:
+- 算法设计与分析作业
+tag:
+  - 动态规划
+  - 01背包
+  - 流水调度
+---
 # 算法设计与分析作业4
 # 一、01 backpack problem
 

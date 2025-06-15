@@ -1,19 +1,14 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const enSidebar = sidebar({
+
   "/": [
     "",
     {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "Articles",
+      text: "Algo Course Guide",
       icon: "book",
-      prefix: "posts/",
+      prefix: "Algorithm Design & Analysis Course Guide/",
+      link: "Algorithm Design & Analysis Course Guide/",
       children: "structure",
     },
     "intro",

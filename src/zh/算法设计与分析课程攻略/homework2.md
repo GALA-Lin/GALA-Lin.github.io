@@ -1,3 +1,13 @@
+---
+icon: pen-to-square
+date: 2025-04-29
+cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+category:
+- 算法设计与分析作业
+tag:
+  - 伪代码
+  - 分治
+---
 # 算法设计与分析作业2
 # 1. binary search
 

@@ -1,4 +1,14 @@
-# 算法设计与分析作业5
+---
+icon: pen-to-square
+date: 2025-05-28
+cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+category:
+- Algo Course Guide
+tag:
+  - 图像压缩
+  - 最小生成树
+---
+# Homework5
 # 图像灰度压缩
 
 ⼀幅4*4的图像, 灰度值序列如下.请根据课堂上所讲代码,写出构造解的S数组、l数组和b数组, 追踪解的S数组. 需要体现做题过程,如:每⼀轮i的循环写出内部j循环的前两次和最后两次, 内部循环少于等于四次的需要全部j的计算过程

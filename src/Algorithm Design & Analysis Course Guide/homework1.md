@@ -1,4 +1,15 @@
-# 算法设计与分析作业1
+---
+icon: pen-to-square
+date: 2025-04-23
+cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+category:
+- Algo Course Guide
+tag:
+  - 算法概念
+  - 递归
+  - 分治
+---
+# Homework1
 # 1\. 第一章概述：
 
 **算法分析：** 如何衡量效率（时间/空间复杂度）。
