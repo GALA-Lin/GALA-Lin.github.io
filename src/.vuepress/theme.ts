@@ -36,7 +36,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "",
 
       displayFooter: true,
 
@@ -94,6 +94,7 @@ export default hopeTheme({
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
+    alert: true,
     align: true,
     attrs: true,
     codeTabs: true,

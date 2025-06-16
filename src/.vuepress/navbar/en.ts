@@ -2,11 +2,14 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  "/Algorithm Design & Analysis Course Guide/",
-
   {
-    text: "V2 Docs",
+    text: "CUPK Algo Course Guide",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/",
+    link:"/Algorithm Design & Analysis Course Guide/",
+  },
+  {
+    text: "Algo_note",
+    icon: "book",
+    link: "/Algo_note/",
   },
 ]);

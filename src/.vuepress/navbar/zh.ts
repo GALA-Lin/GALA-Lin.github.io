@@ -8,8 +8,8 @@ export const zhNavbar = navbar([
     link: "/zh/算法设计与分析课程攻略/",
   },
   {
-    text: "V2 文档",
+    text: "基础算法笔记",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "/zh/Algo_note/",
   },
 ]);

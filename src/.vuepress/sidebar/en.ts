@@ -1,21 +1,23 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const enSidebar = sidebar({
-
   "/": [
     "",
     {
-      text: "Algo Course Guide",
+      text: "CUPK Algo Course Guide",
       icon: "book",
       prefix: "Algorithm Design & Analysis Course Guide/",
       link: "Algorithm Design & Analysis Course Guide/",
       children: "structure",
     },
-    "intro",
     {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+      text: "Algo_note",
+      icon: "laptop-code",
+      prefix: "Algo_note/",
+      link: "Algo_note/",
+      children: "structure",
     },
+    "intro",
+    
   ],
 });

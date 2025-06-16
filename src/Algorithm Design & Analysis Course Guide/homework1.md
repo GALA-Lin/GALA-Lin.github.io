@@ -225,7 +225,7 @@ string multiply(string num1, string num2)
 
 ## 4.3 哈密顿塔 O(2^n)
 
-> \[!警告\]
+> [!warning]
 > 
 > 不属于分治，为递归，正式提交已删除
 

@@ -10,11 +10,13 @@ export const zhSidebar = sidebar({
       link: "算法设计与分析课程攻略/",
       children: "structure",
     },
-    "intro",
     {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+      text: "基础算法笔记",
+      icon: "laptop-code",
+      prefix: "Algo_note/",
+      link: "Algo_note/",
+      children: "structure",
     },
+    "intro",
   ],
 });
