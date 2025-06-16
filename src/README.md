@@ -18,5 +18,6 @@ projects:
     desc: Algrothmetic notes and articles
     link: https://blog.csdn.net/2302_79000266
 
-footer: MIT Licensed | Copyright © 2025-present GALA-Lin
+footer: GPL-3.0 Licensed | Copyright © 2025-present GALA-Lin
+copyright: false
 ---

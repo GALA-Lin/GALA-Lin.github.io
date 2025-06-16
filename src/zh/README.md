@@ -18,6 +18,6 @@ projects:
     desc: 基础算法笔记等
     link: https://blog.csdn.net/2302_79000266
 
-footer: MIT Licensed | Copyright © 2025-present GALA-Lin
+footer: <a href=https://www.gnu.org/licenses/gpl-3.0.html> GPL-3.0 Licensed </a> | Copyright © 2025-present <a href="https://github.com/GALA-Lin">GALA-Lin</a>
 ---
 

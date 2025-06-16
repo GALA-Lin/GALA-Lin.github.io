@@ -2,6 +2,7 @@
 icon: pen-to-square
 date: 2025-04-23
 cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+footer: false
 category:
 - 算法设计与分析作业
 tag:
