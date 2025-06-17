@@ -18,6 +18,6 @@ projects:
     desc: Algrothmetic notes and articles
     link: https://blog.csdn.net/2302_79000266
 
-footer: GPL-3.0 Licensed | Copyright © 2025-present GALA-Lin
+footer: <a href=https://www.gnu.org/licenses/gpl-3.0.html style="color:#808080"> GPL-3.0 Licensed </a> | Copyright © 2025-present <a href="https://github.com/GALA-Lin" style="color:#808080">GALA-Lin</a>
 copyright: false
 ---

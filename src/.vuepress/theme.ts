@@ -36,9 +36,9 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "",
+      footer:"",
 
-      displayFooter: true,
+      displayFooter: false,
 
       blog: {
         description: "A slacker king in the computer science department",
@@ -62,7 +62,7 @@ export default hopeTheme({
 
       footer: "",
 
-      displayFooter: true,
+      displayFooter: false,
 
       blog: {
         description: "一个计算机系摆烂王",
@@ -124,6 +124,11 @@ export default hopeTheme({
         },
       },
     ],
+    highlighter: {
+      type: "prismjs",
+      themes: {light: "one-light", dark: "cb"},
+      collapsedLines:true,
+    },
     sub: true,
     sup: true,
     tabs: true,
