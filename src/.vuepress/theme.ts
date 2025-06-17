@@ -173,7 +173,12 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    copyright: {
+      global: true,
+      author: "GALA-Lin",
+      license: "GNU General Public License v3.0",
+      triggerLength: 100,
+    },
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
@@ -181,11 +186,20 @@ export default hopeTheme({
     //   provider: "Waline",
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
-
+    
     components: {
       components: ["Badge", "VPCard"],
     },
-
+    search:{
+      locales: {
+        '/': {
+          placeholder: 'Titles only ',
+        },
+        '/zh/': {
+          placeholder: '仅搜索标题',
+        },
+      },
+    },
     icon: {
       prefix: "fa6-solid:",
     },
