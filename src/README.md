@@ -3,7 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: 22lin04
-heroImage: https://img.picui.cn/free/2025/06/15/684eb5e16b474.jpg
+bgImage: https://img.picui.cn/free/2025/06/15/684eb5e16b474.jpg
+heroImage: https://img.picui.cn/free/2025/06/17/6851397000345.png
 heroText: GALA-Lin's Blog
 tagline: Algnote | Practice make perfect
 heroFullScreen: false

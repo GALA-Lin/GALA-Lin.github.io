@@ -35,9 +35,9 @@ export default hopeTheme({
 
       // sidebar
       sidebar: enSidebar,
-
-      footer:"",
-
+      
+      footer: "",
+      copyright: false,
       displayFooter: false,
 
       blog: {
@@ -61,11 +61,11 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       footer: "",
-
+      copyright: false,
       displayFooter: false,
 
       blog: {
-        description: "一个计算机系摆烂王",
+        description: "计算机系摆烂王",
         intro: "/zh/intro.html",
       },
 
