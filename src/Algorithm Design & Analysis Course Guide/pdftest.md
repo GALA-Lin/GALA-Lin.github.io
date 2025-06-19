@@ -17,4 +17,4 @@
   ]'
 />
 
-<PDF url="//theme-hope-assets.vuejs.press/files/sample.pdf" />
+<PDF url="https://github.com/GALA-Lin/GALA-Lin.github.io/blob/main/src/.vuepress/public/PDF/CS%20Data%20Structure%20pratice%20demo1.pdf" />
