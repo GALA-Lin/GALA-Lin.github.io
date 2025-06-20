@@ -1,20 +1,20 @@
 # PDF Test
 
 <VPBanner
-  title="Mr.Hope"
-  content="Where there is light, there is hope"
-  logo="https://mister-hope.com/logo.svg"
+  title="GALA-Lin"
+  content="VuePress-theme-hope+Markdown+TypeScript"
+  logo="https://img.picui.cn/free/2025/06/17/6851397000345.png"
   :actions='[
     {
       text: "访问",
-      link:"https://mister-hope.com",
+      link:"https://gala-lin.github.io",
     },
     {
       text: "仓库",
-      link: "https://github/Mister-Hope/Mister-Hope.github.io",
+      link: "https://github.com/GALA-Lin/GALA-Lin.github.io",
       type: "default",
     },
   ]'
 />
 
-<PDF url="https://github.com/GALA-Lin/GALA-Lin.github.io/blob/main/src/.vuepress/public/PDF/CS%20Data%20Structure%20pratice%20demo1.pdf" />
+<PDF url="https://gala-lin.github.io/PDF/CS%20Data%20Structure%20pratice%20demo2.pdf" />
