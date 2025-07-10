@@ -11,7 +11,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "22lin0415",
+      title: "22lin04",
       description: "GALA-Lin的博客",
     },
   },
