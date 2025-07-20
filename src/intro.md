@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+cover: https://free.picui.cn/free/2025/06/15/684eb82931fbc.jpg
 ---
 
 # Intro Page

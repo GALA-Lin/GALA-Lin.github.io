@@ -3,8 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: 22lin04
-bgImage: https://img.picui.cn/free/2025/06/15/684eb5e16b474.jpg
-heroImage: https://img.picui.cn/free/2025/06/17/6851397000345.png
+bgImage: https://free.picui.cn/free/2025/06/15/684eb5e16b474.jpg
+heroImage: https://free.picui.cn/free/2025/07/20/687ceb47b9adc.png
 heroText: GALA-Lin的博客
 heroFullScreen: false
 tagline: Algnote | 22次WA终将AC！

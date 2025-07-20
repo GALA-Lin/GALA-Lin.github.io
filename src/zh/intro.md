@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: https://img.picui.cn/free/2025/06/15/684eb82931fbc.jpg
+cover: https://free.picui.cn/free/2025/06/15/684eb82931fbc.jpg
 footer: <a href=https://www.gnu.org/licenses/gpl-3.0.html style="color:#808080"> GPL-3.0 Licensed </a> | Copyright © 2025-present <a href="https://github.com/GALA-Lin" style="color:#808080">GALA-Lin</a>
 copyright: false
 ---
