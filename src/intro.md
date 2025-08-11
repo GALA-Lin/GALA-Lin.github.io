@@ -10,6 +10,7 @@ cover: https://free.picui.cn/free/2025/06/15/684eb82931fbc.jpg
 - name: GALA-Lin
 - email: <EMAIL>Gala-Lin@outlook.com</EMAIL>
 - personal website: https://gala-lin.github.io/
+- Code repositories：https://github.com/GALA-Lin/
 - interests: programming, open source, sharing.
 
 ## Education
