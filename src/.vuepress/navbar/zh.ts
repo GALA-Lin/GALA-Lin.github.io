@@ -18,6 +18,11 @@ export const zhNavbar = navbar([
     link: "/zh/Algo_note/",
   },
   {
+    text: "项目经验",
+    icon: "code",
+    link: "/zh/project/",
+  },
+  {
     text: "关于我",
     icon: "info",
     link: "/zh/intro",
