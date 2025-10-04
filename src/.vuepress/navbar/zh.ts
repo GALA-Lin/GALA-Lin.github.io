@@ -4,7 +4,7 @@ export const zhNavbar = navbar([
   "/zh/",
   {
     text: "所有文章",
-    icon: "code",
+    icon: "book",
     link: "/zh/article/",
   },
   {
