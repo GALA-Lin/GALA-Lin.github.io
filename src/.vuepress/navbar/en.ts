@@ -18,6 +18,11 @@ export const enNavbar = navbar([
     link: "/Algo_note/",
   },
   {
+    text: "projects",
+    icon: "code",
+    link: "/project/",
+  },
+  {
     text: "About Me",
     icon: "info",
     link: "/intro",

@@ -11,6 +11,8 @@ category:
 - 项目经验
 ---
 
+<Catalog />
+
 # 志愿服务平台
 
 ## 项目许可
@@ -23,8 +25,6 @@ category:
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-<Catalog />
 
 ## 项目描述
 
@@ -50,32 +50,35 @@ category:
 
 ### 技术架构
 
-![架构图.png](https://free.picui.cn/free/2025/09/10/68c0e3c2a7c82.png)
+![架构图](README.assets/架构图.png)
 
-## 主要业务
+### 数据库设计
 
-### Super管理员
+![Diagram ](README.assets/Diagram.png)
 
-- [x] 下级管理员权限管理
-- [x] 普通管理员业务
+## 功能展示
 
-### 管理员
+#### 用户端
 
-- [x] 登录
-- [x] 新闻发布
-- [x] 活动发布
-- [x] 活动报名信息导出：excel
-- [x] 时长登记：手动版：手动填写/提交规范excel ~~自动版：设计定位/扫码/签到码签到+签退 自动计算时长~~
-- [ ] 数据可视化：下辖各组织志愿者人数、时长
-- [x] 志愿者信息管理
-- [x] 志愿者权限管理
-- [x] 组织部门管理：班级、志愿者协会......
+首页通过结构化的信息布局和视觉元素，向所有访问者（包括潜在志愿者、活动组织者及普通访客）传递平台的核心价值、功能概览与最新动态，并作为核心流量分发枢纽，引导用户至平台内各功能模块。
 
-### 志愿者
+前台主要功能展示：新闻、报名
 
-- [x] 注册登录
-- [x] 新闻点赞、评论、收藏
-- [x] 活动报名、取消
-- [x] 加入、退出组织部门
-- [x] 个人信息管理
-- [x] 志愿时长查询
+![前台](README.assets/前台.gif)
+
+---
+
+#### 管理端
+
+各项管理展示
+
+![后台](README.assets/后台.gif)
+
+活动信息导出功能
+
+![导出](README.assets/导出.gif)
+
+志愿时长导入功能
+
+![导入2.0](README.assets/导入2.0.gif)
+
