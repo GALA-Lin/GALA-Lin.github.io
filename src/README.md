@@ -7,7 +7,7 @@ bgImage: https://free.picui.cn/free/2025/06/15/684eb5e16b474.jpg
 heroImage: https://free.picui.cn/free/2025/07/20/687ceb47b9adc.png
 heroText: GALA-Lin's Blog
 tagline: Algnote | Practice make perfect
-heroFullScreen: false
+heroFullScreen: true
 projects:
   - icon: folder-open
     name: GALA-Lin's GitHub
