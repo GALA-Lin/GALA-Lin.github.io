@@ -12,7 +12,6 @@ order: 1
 
 - 姓名：GALA-Lin
 - 性别：男
-- 出生日期：2004年12月25日
 - 邮箱：<EMAIL>Gala-Lin@outlook.com</EMAIL>
 - 个人网站：[https://gala-lin.github.io](https://gala-lin.github.io)
 - 个人仓库： [https://github.com/Gala-lin](https://github.com/Gala-lin)
