@@ -17,7 +17,7 @@ tag:
 
 ⼀幅4*4的图像, 灰度值序列如下.请根据课堂上所讲代码,写出构造解的S数组、l数组和b数组, 追踪解的S数组. 需要体现做题过程,如:每⼀轮i的循环写出内部j循环的前两次和最后两次, 内部循环少于等于四次的需要全部j的计算过程
 
-![](https://img.picui.cn/free/2025/06/15/684ece6e2b1ed.png)
+![](https://p.ananas.chaoxing.com/star3/origin/e0096b4636c12e54f9677e303a5e5d7d.png)
 
 ## 构造阶段的b数组
 
@@ -709,7 +709,7 @@ $$
 
 **在ABCDE各城市间建立通信网络,分别用Prim算法和Kruskal算法构造最小生成树**
 
-![](https://img.picui.cn/free/2025/06/15/684ece6eb99f9.png)
+![](https://p.ananas.chaoxing.com/star3/origin/a073e4b65535068c78882dbd60bdcb13)
 
 ## 一、Prim算法（以顶点A为起点）
 

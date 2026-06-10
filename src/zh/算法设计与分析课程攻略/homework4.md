@@ -16,6 +16,7 @@ tag:
 # 算法设计与分析作业4
 
 # 一、01背包问题
+Value array v = {8, 10, 6, 3, 7, 2}, weight array w = {4, 6, 2, 2, 5, 1}, knapsa ck capacity c = 12, write the corresponding m(i,j)table, and the process of tra cking the solution, you need to reflect the process of getting the data in eachcell, otherwise no score will be given.
 给定：
 - 价值数组 `v = {8, 10, 6, 3, 7, 2}`
 - 重量数组 `w = {4, 6, 2, 2, 5, 1}`
@@ -173,6 +174,7 @@ int main() {
 # 二、流水调度算法
 
 Given:
+⼀共有7个作业分别在机器M1和M2上进⾏加⼯, 这7个作业在M1上加⼯需要花费的时间为ai, 在M2上加⼯花费的时间为bi, 根据以下信息计算加⼯这些作业所需要花费的最短时间, 需要解题过程, 否则不给分
 $$
 n=7\\(a_0,a_1,a_2,a_3,a_4,a_5,a_6) = (5,3,6,4,8,9,6)\\(b_0\ ,b_1,b_2,b_3,\ b_4,b_5,\ b_6)  =  (2,4,7,2,9,7,3)
 $$

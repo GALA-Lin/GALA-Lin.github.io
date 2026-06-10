@@ -13,6 +13,11 @@ tag:
   - 分治
 ---
 # 算法设计与分析作业1
+1. Summarize the content learned in Chapter One
+2. What is recursion?
+3. What are the properties of the divide-and-conquer algorithm?
+4. Please write down examples of divide-and-conquer algorithms that appeared in class and calculate their time complexity
+
 # 1\. 第一章概述：
 
 **算法分析：** 如何衡量效率（时间/空间复杂度）。

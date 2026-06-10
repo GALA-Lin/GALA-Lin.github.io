@@ -12,6 +12,14 @@ tag:
   - 分治
 ---
 # 算法设计与分析作业2
+Write the pseudocode for all examples in chapter two
+1. Binary search method
+2. Large integer multiplication
+3. Merge sort
+4. Quick sort
+5. Linear time selection algorithm
+6. Closest point pair algorithm
+
 # 1. binary search
 
 ```
