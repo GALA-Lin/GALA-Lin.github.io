@@ -206,7 +206,7 @@ $$
 
 ## 调度甘特图
 
-![4-2.png](https://free.picui.cn/free/2025/05/19/682b35dd68167.png)
+![alt text](image.png)
 
 # 最短用时 43
 
