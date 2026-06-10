@@ -108,7 +108,7 @@ int bsearch_2(int l, int r)
 
 ## 4.2 大整数乘法 O(n^(log 3)) ≈ O(n^1.59)
 
-![img](https://img.picui.cn/free/2025/06/15/684ecdd0d3f57.png)
+![img](https://p.ananas.chaoxing.com/star3/origin/8d178bc06665420efbbc334af77dc24c)
 
 ```Cpp
 // 大整数相加：竖式加法
@@ -258,7 +258,7 @@ void Hanoi(int n, char A, char B, char C)
 
 ## 4.4 归并排序 O(n log n)
 
-![img](https://img.picui.cn/free/2025/06/15/684ecdd128dd5.png)
+![img](https://www.hello-algo.com/chapter_sorting/merge_sort.assets/merge_sort_overview.png)
 
 ```Cpp
 /* 合并左子数组和右子数组 */
